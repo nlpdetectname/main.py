@@ -1,1 +1,1 @@
-# main.py
+NLP for Detect Name in Chinese Text
